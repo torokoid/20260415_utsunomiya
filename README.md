@@ -179,6 +179,8 @@ p.note { display: none; }
 <a href="20260415_008.JPG" target="_blank"><img src="20260415_008.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260415_009.JPG" target="_blank"><img src="20260415_009.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260415_010.JPG" target="_blank"><img src="20260415_010.JPG" alt="サンプル画像" class="responsive-media"></a>
+
+<h2><span class="yellow">夕焼け空が綺麗だったので一枚！ドリームかわちプール駐車場から</span></h2>
 <a href="20260415_011.JPG" target="_blank"><img src="20260415_011.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260415_012.JPG" target="_blank"><img src="20260415_012.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260415_013.JPG" target="_blank"><img src="20260415_013.JPG" alt="サンプル画像" class="responsive-media"></a>
