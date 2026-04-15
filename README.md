@@ -296,9 +296,9 @@ https://youtube.com/shorts/1MxKGMEFFR4?feature=share<br>
 
 <br><br>
 
-<h2><span class="yellow">今日のBGMは、Top Songs Cover HotHit Music Pop Playlist Best Song 🎙✨ 2026</span></h2>
+<h2><span class="yellow">今日のBGMは、แว่ววิทยุ...ลอยมาตามสายลม 🍃 รวม 30 เพลง อะคูสติคคัฟเวอร์เพราะๆ แห่งวันวาน ฟังต่อเนื่อง ยาวๆ</span></h2>
 <div class="youtube-wrapper">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/grD0qpAsi5M?si=fCc_71vT8xPj9HL1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SC0dfIDa_dA?si=b3yd0I8iIHLd41Yz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 
 <!--
