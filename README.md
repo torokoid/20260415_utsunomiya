@@ -195,6 +195,11 @@ p.note { display: none; }
 <a href="20260415_022.JPG" target="_blank"><img src="20260415_022.JPG" alt="サンプル画像" class="responsive-media"></a>
 <a href="20260415_023.JPG" target="_blank"><img src="20260415_023.JPG" alt="サンプル画像" class="responsive-media"></a>
 
+<h2><span class="yellow">宇都宮の河内図書館裏の森で、鶯の鳴き声が響き渡りました。<br>網戸にピントがあっちゃってますが、鳴き声はバッチリ撮れてます。</span></h2>
+<div class="youtube-wrapper">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IIf6onEq8vw?si=CmeM37f33jtVAAH_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
 <h2><span class="yellow">最後は西の空に沈む冬の星座達、ぎょしゃ座だけトレースしました</span></h2>
 <a href="20260415_024.JPG" target="_blank"><img src="20260415_024.JPG" alt="サンプル画像" class="responsive-media"></a>
 
